@@ -66,7 +66,7 @@ public class TransferPage extends JFrame {
             }
         });
 
-        setVisible(true);
+            setVisible(true);
     }
 
     public String generateReferenceID() {
