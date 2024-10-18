@@ -1,0 +1,15 @@
+{
+  "users" : [ {
+    "fullName" : "Farah Alonso",
+    "username" : "defaultUser",
+    "password" : "defaultPass",
+    "balance" : 2517.25,
+    "accountNumber" : "123456789"
+  }, {
+    "fullName" : "Xavi Alonso",
+    "username" : "user2",
+    "password" : "password2",
+    "balance" : 984.00,
+    "accountNumber" : "987654321"
+  } ]
+}
